@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivangi Gupta.
 - 👀 I’m a data analyst who enjoys working with data and document her learning journey.
 - 🌱 I’m currently learning data storytelling.
-- 💞️ I’m open to collaborate on data analysis projects.
 - 📫 Let's connect on [Linkedin](www.linkedin.com/in/shivangi-gupta-515bb3249) 
 
 ### Skills and Tools:
