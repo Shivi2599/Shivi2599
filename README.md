@@ -22,7 +22,7 @@ With hands-on experience from real-world projects and internships at Mentoress C
 ### 📄 Resume & Contact
 
 - 📧 Email: shivangi.gupta@email.com
-- 🔗 Resume: [View Resume (PDF)]
+- 🔗 Resume: [View Resume (PDF)](https://github.com/Shivi2599/Shivi2599/blob/main/Shivangi_Gupta_Resume....SGpdf.pdf)
 - 📍 Location: Punjab, India
 - 🌐 LinkedIn: [linkedin.com/in/shivangi-gupta](www.linkedin.com/in/shivangi-gupta-1data)
 
