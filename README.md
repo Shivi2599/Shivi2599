@@ -1,11 +1,29 @@
-- 👋 Hi, I’m Shivangi Gupta.
-- 👀 I’m a data analyst who enjoys working with data and document her learning journey.
-- 🌱 I’m currently learning data storytelling.
-- 📫 Let's connect on [Linkedin](www.linkedin.com/in/shivangi-gupta-515bb3249) 
+### 👋 Hi, I’m Shivangi Gupta.
 
-### Skills and Tools:
+I’m a detail-oriented **Data Analyst** with a strong foundation in **Python, MySQL, Excel, and Power BI**. I specialize in extracting insights from raw data and translating them into actionable business recommendations.
 
+With hands-on experience from real-world projects and internships at Mentoress Community and Gloriavita Crafttech Solutions, I’ve worked on everything from customer behavior analysis and revenue forecasting to executive dashboards and retention analytics.
 
-![Screenshot 2024-09-05 175500](https://github.com/user-attachments/assets/3695dc86-eff6-45d0-89d5-36849a7598f8) ![Screenshot 2024-09-05 175510](https://github.com/user-attachments/assets/6381a453-dcd3-4245-ab82-44a70a0855c2)![Screenshot 2024-09-10 135609](https://github.com/user-attachments/assets/dcbd6e19-c847-43d2-9d1b-1a6d3e77b7e7)![Screenshot 2024-09-10 135617](https://github.com/user-attachments/assets/47c36cb7-035c-4dbb-82b9-812d99c234dd)![Screenshot 2024-09-17 174038](https://github.com/user-attachments/assets/659e0a06-741a-4eb2-9653-009c0065b071)
+### 🔍 What I Do
+- Transform raw datasets into compelling stories using data visualization tools.
+- Write clean and well-documented Python scripts for data processing and analysis.
+- Build interactive dashboards to support data-driven decision-making.
+- Communicate findings with clarity and business relevance
+
+### 🧠 Skills
+
+- **Languages & Tools**: Python, MySQL, Excel, Power BI
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Techniques**: Data Cleaning, EDA, Data Visualization, Dashboard Design, KPI Reporting
+- **Soft Skills**: Attention to detail, problem-solving, structured thinking, adaptability
+
+##### 📌 See all my repositories for more insights into how I work.
+
+### 📄 Resume & Contact
+
+- 📧 Email: shivangi.gupta@email.com
+- 🔗 Resume: [View Resume (PDF)]
+- 📍 Location: Punjab, India
+- 🌐 LinkedIn: [linkedin.com/in/shivangi-gupta](www.linkedin.com/in/shivangi-gupta-1data)
 
 
